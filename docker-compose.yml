@@ -23,5 +23,5 @@ volumes:
     driver: local
 
 networks:
-  netvork-5:
+  network-5:
    driver: bridge
